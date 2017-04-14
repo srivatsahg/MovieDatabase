@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Database</string>
+    <string name="strTitle">Title</string>
+    <string name="strGenre">Genre</string>
+    <string name="strRating">Rating</string>
+    <string name="strDesc">Description</string>
+    <string name="strMore">More info...</string>
+    <string name="strYear">2017</string>
+    <string name="title_activity_movie_list">MovieListActivity</string>
+</resources>
